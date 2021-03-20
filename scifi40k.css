@@ -13,14 +13,14 @@
     overflow: hidden;
     margin: 0;
     border: 10px solid transparent;
-    border-image-source: url("/MirandaLeaptrott/40kUI/main/ui/img/panel2.png");
+    border-image-source: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/panel2.png");
     border-image-slice: 30 fill;
     background-position: center !important;
     background-size: 300px 100%!important;
     background-repeat: no-repeat;
     box-sizing: border-box;
     box-shadow: -30 -30 25px outset #008cff;
-    background: url("/MirandaLeaptrott/40kUI/main/ui/img/denim075.png") repeat;
+    background: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/denim075.png") repeat;
 }
 
 .collapse::before{
@@ -32,7 +32,7 @@
     height: 620px !important;
     padding-left: 5px;
     border: 5px solid transparent;
-    border-image-source: url("/MirandaLeaptrott/40kUI/main/ui/img/panel2.png");
+    border-image-source: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/panel2.png");
     border-image-slice: 35 fill;
     background-position: center !important;
     background-size: 100% 100%!important;
@@ -55,7 +55,7 @@ i.fa-caret-right::before{
 }
 
 .fa-caret-right{
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/Right_arrow_Hexagonal_Icon.svg") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/Right_arrow_Hexagonal_Icon.svg") !important;
     width: 40px;
     height: 30px;
     display: inline-block !important;
@@ -72,7 +72,7 @@ i.fa-caret-left::before{
 }
 
 .fa-caret-left{
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/Left_arrow_Hexagonal_Icon.svg") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/Left_arrow_Hexagonal_Icon.svg") !important;
     width: 40px;
     height: 30px;
     display: inline-block !important;
@@ -86,7 +86,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-comments {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/speechbubble.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/speechbubble.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -122,7 +122,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-fist-raised {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/combat.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/combat.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -136,7 +136,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-map {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/scenes.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/scenes.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -150,7 +150,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-users {
     content: "";
-    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/actors.png") !important;
+    background-image: url("https://raw.githubusercontent.comhttps://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/actors.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -164,7 +164,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-suitcase {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/items.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/items.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -178,7 +178,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-book-open {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/journals.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/journals.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -192,7 +192,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-th-list {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/tables.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/tables.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -206,7 +206,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-music {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/music.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/music.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -220,7 +220,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-atlas {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/compendiums.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/compendiums.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -234,7 +234,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-cogs {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/settings.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/settings.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
@@ -250,7 +250,7 @@ i.fa-caret-left::before{
 /* #region Chat Tab*/
 .message{
     background-size: 100% 100% !important;
-   /* background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/window_blue2.png") !important;*/
+   /* background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/window_blue2.png") !important;*/
 }
 .message-sender {
     color: darkblue;
@@ -262,7 +262,7 @@ i.fa-caret-left::before{
 #chat-message{
     background-size: 100% 100% !important;
     padding-left: 5px;
-    background-image: url(/MirandaLeaptrott/40kUI/main/ui/img/steel.png) !important;
+    background-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/steel.png) !important;
 }
 
 .polyglot-lang-select select {
@@ -274,12 +274,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 0px;
-    background: url(/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat !important;
+    background: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat !important;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
+    border-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -303,19 +303,19 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat;
+    background: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
+    border-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #013877;
 }
 
 #combat-controls .combat-control{
-    background-image: url(/MirandaLeaptrott/40kUI/main/ui/img/buttonredlight.png);
+    background-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/buttonredlight.png);
     text-align: center;
     background-position: center !important;
     background-size: 260px 100%!important;
@@ -333,12 +333,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat;
+    background: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/steel2.png) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
+    border-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -355,7 +355,7 @@ i.fa-caret-left::before{
 }
 
 .sidebar-tab .directory-footer button{
-    background-image: url(/MirandaLeaptrott/40kUI/main/ui/img/GreenButton_Pressed.png);
+    background-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/GreenButton_Pressed.png);
     text-align: center;
     background-position: center !important;
     background-size: 100% 100% !important;
@@ -371,7 +371,7 @@ i.fa-caret-left::before{
 
 /* #region Folders as buttons */
 .sidebar-tab .folder .folder-header {
-    background-image: url(/MirandaLeaptrott/40kUI/main/ui/img/Button_Normal.png)  !important;
+    background-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/Button_Normal.png)  !important;
     text-align: left !important;
     background-position: center !important;
     background-size: 100% 55px!important;
@@ -406,13 +406,13 @@ i.fa-caret-left::before{
     top: 7px;
     padding-top: 17px;
     padding-left: 35px;
-    background: url(/MirandaLeaptrott/40kUI/main/ui/img/RedButton_Up.png) no-repeat;
+    background: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/RedButton_Up.png) no-repeat;
     background-position-x: 0%;
     background-size: 100% 55px;
     background-position-y: 0%;
     background-position: initial;
     /*box-shadow: inset 0 0 10px #000000;*/
-    /*border-image: url(/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;*/
+    /*border-image: url(https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/chat-controls-border.png) 4 repeat;*/
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #eeede0;
