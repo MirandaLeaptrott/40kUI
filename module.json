@@ -1,0 +1,16 @@
+{
+  "name": "40k-ui",
+  "title": "40k UI",
+  "description": "For Purging the Mutuant, Heritic, and Xenos",
+  "version": "0.1.2",
+  "author": "iotech, Mira",
+  "scripts": [ "scifi40k.js" ],
+  "styles": [ "scifi40k.css" ],
+  "esmodules": [],
+  "packs": [],
+  "url": "https://github.com/iotech-fvtt/scifi-ui",
+  "manifest": "https://raw.githubusercontent.com/iotech-fvtt/scifi-ui/master/module.json",
+  "download": "https://github.com/iotech-fvtt/scifi-ui/releases/download/0.1.2/scifi-ui.zip",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.6.2"
+}
