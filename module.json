@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/MirandaLeaptrott/40kUI",
   "manifest": "https://github.com/MirandaLeaptrott/40kUI/blob/main/module.json",
-  "download": "",
+  "download": "https://github.com/MirandaLeaptrott/40kUI/archive/refs/heads/main.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.2"
 }
