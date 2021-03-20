@@ -8,8 +8,8 @@
   "styles": [ "scifi40k.css" ],
   "esmodules": [],
   "packs": [],
-  "url": "https://github.com/iotech-fvtt/scifi-ui",
-  "manifest": "https://raw.githubusercontent.com/iotech-fvtt/scifi-ui/master/module.json",
+  "url": "https://github.com/MirandaLeaptrott/40kUI",
+  "manifest": "https://github.com/MirandaLeaptrott/40kUI/blob/main/module.json",
   "download": "https://github.com/iotech-fvtt/scifi-ui/releases/download/0.1.2/scifi-ui.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.2"
