@@ -150,7 +150,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-users {
     content: "";
-    background-image: url("/MirandaLeaptrott/40kUI/main/ui/img/actors.png") !important;
+    background-image: url("https://raw.githubusercontent.com/MirandaLeaptrott/40kUI/main/ui/img/actors.png") !important;
     width: 50px !important;
     height: 50px !important;
     display: inline-block !important;
