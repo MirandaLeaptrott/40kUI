@@ -1,4 +1,4 @@
-# scifi-ui
+# 40k-ui
 A science fiction-flavored UI for FVTT.
 
 
