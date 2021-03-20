@@ -1,7 +1,7 @@
 {
   "name": "40k-ui",
   "title": "40k UI",
-  "description": "For Purging the Mutuant, Heritic, and Xenos",
+  "description": "For Purging the Mutuant, Heritic, and Xenos.",
   "version": "0.1.2",
   "author": "iotech, Mira",
   "scripts": [ "scifi40k.js" ],
